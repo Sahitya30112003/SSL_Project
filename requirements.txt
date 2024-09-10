@@ -7,5 +7,5 @@ numpy == 1.23.4
 pandas == 1.5.1
 seaborn == 0.12.1
 sklearn == 0.0
-streamlit == 1.14.0
+streamlit == 1.4.0
 xgboost == 1.6.2
